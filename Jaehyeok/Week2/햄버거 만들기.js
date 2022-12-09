@@ -1,4 +1,4 @@
-// #1, 50점, 20분
+// #1, 50점(메모리 초과), 재귀, 20분
 const seq = [1, 2, 3, 1];
 var answer = 0;
 const sliding = 4;
@@ -35,7 +35,7 @@ function solution(inputs) {
 solution([2, 1, 1, 2, 3, 1, 2, 3, 1]); // 2
 solution([1, 3, 2, 1, 2, 1, 3, 1, 2]); // 0
 
-// #2, 100점 20분
+// #2, 100점, 스택, 20분
 function solution2(inputs) {
   const num = 4;
   let answer = 0;
