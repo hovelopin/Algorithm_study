@@ -1,4 +1,4 @@
-// 70점, 순열, 25분
+// 75점, 순열, 25분
 function solution(babbling) {
   var answer = 0;
   const words = [];
@@ -27,8 +27,8 @@ function solution(babbling) {
     word.forEach((v) => words.push(v.join("")));
   }
 
-  words.forEach((v) => {
-    if (babbling.includes(v)) answer += 1;
+  babbling.forEach((v) => {
+    if (words.includes(v)) answer += 1;
   });
 
   return answer;
