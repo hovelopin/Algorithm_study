@@ -1,3 +1,4 @@
+// 100점, 구현, 5분
 function solution(number) {
   var answer = 0;
   for (let i = 0; i < number.length; i++) {
