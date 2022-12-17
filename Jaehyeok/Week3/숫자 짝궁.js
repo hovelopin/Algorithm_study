@@ -68,7 +68,7 @@ function solution(X, Y) {
   return String(Math.max(...resultArr));
 }
 
-// 100
+// 100, 구현, 25 + 15분
 function solution(X, Y) {
   let answer = [];
 
