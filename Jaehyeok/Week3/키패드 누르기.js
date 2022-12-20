@@ -1,3 +1,4 @@
+// 100점, 구현, 25분
 function solution(numbers, hand) {
   var answer = "";
   const table = [
