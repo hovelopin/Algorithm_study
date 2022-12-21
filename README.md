@@ -23,3 +23,12 @@ Algorithm Study
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
+
+## Week 4
+- [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+- [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+- [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
+
