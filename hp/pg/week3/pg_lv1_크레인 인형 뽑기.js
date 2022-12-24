@@ -1,4 +1,4 @@
-// 시작 (23시 45분) => 끝 ()
+// 시작 (23시 45분) => 끝 (24시 10분)
 function solution(boards, moves) {
   const baskets = [];
   const deep = boards.length; // 깊이 => 어디까지 들어갈 수 있는지
