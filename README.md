@@ -40,3 +40,7 @@ Algorithm Study
 - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
 
+## Week 6(2023.1.13 ~ 2023.1.18)
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
