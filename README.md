@@ -32,3 +32,15 @@ Algorithm Study
 - [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
 - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 
+## Week 5 
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
+- [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
+- [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+
+## Week 6(2023.1.13 ~ 2023.1.18)
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
