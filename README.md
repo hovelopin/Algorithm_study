@@ -44,3 +44,10 @@ Algorithm Study
 - [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+
+## Week7(2023.1.25 ~ 2023.2.01)
+- [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) (kakao)
+- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) (kakao)
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
